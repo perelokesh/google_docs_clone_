@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Header() {
+export default function Document() {
   return (
     <div>
-      header
+      Document page
     </div>
   )
 }
